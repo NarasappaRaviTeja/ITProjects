@@ -1,0 +1,305 @@
+.ecommercenavbar-logo {
+    height: 5vh;
+}
+
+.ecommerce-carousel {
+    height: 100vh;
+}
+
+.ecomerceservice-bg {
+    background-color: #ffffff;
+    background-size: cover;
+    padding: 15px;
+}
+
+.ecomerceservice-mainheading {
+    color: #183b56;
+    font-size: 50px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.ecomerceservice-mainpara {
+    font-size: 25px;
+    color: #616c7c;
+}
+
+.ecomerceservice-image {
+    height: 20vh;
+}
+
+.ecomerceservice-heading {
+    color: #1f2933;
+    font-size: 35px;
+    font-family: Roboto;
+}
+
+.ecomerceservice-para {
+    color: #7b8794;
+    font-size: 20px;
+}
+
+.ecommerceproducts-bg {
+    background-color: #ffffff;
+    background-size: cover;
+    padding: 15px;
+}
+
+.ecommerceproducts-mainheading {
+    color: #183b56;
+    font-size: 45px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.ecommerceproducts1-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    background-size: cover;
+    height: 60vh;
+    border-radius: 15px;
+}
+
+.ecommerceproducts-heading {
+    color: #ffffff;
+    font-size: 50px;
+}
+
+.ecommerceproducts-para {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.ecommerceproducts-button {
+    border-radius: 30px;
+    background-color: #ffffff;
+    color: #ff9f00;
+    padding: 10px;
+    border-style: none;
+    width: 120px;
+}
+
+.ecommerceproductsmodal-title {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.ecommerceproductsmodal-para {
+    color: #323f4b;
+    font-size: 20px;
+}
+
+.ecommerceproductsmodal-highlight {
+    color: #183b56;
+    font-weight: 600;
+}
+
+.ecommerceproductsmodal-button {
+    color: #323f4b;
+    border-color: #323f4b;
+    border-style: solid;
+    border-radius: 5px;
+}
+
+.ecommerceproducts2-bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    background-size: cover;
+    height: 60vh;
+    border-radius: 15px;
+}
+
+.ecommerceproducts-heading1 {
+    color: #ff9f00;
+    font-size: 20px;
+}
+
+.ecommerceoffer-bg {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+    padding: 10px;
+}
+
+.ecommerceoffer-heading {
+    color: #ad2167;
+    font-weight: bold;
+}
+
+.ecommerceoffer-para {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.ecommerceoffer-highlight {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.ecommercetrendingblogs-bg {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.ecommercetrendingblogs-mainheading {
+    font-size: 50px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.ecommercetrendingblogs1-bg {
+    color: white;
+}
+
+.ecommercetrendingblogs1-para1 {
+    font-size: 20px;
+    color: #959ead;
+}
+
+.ecommercetrendingblogs1-heading1 {
+    font-size: 35px;
+    color: #183b56;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.ecommercetrendingblogs1-para2 {
+    font-size: 28px;
+    color: #959ead;
+}
+
+.ecommercetrendingblogs1-heading2 {
+    font-size: 18px;
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+.ecommerceexplore-bg {
+    background-color: #f5f7fa;
+    background-size: cover;
+}
+
+.ecommerceexplore-mainheading {
+    font-size: 55px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: #183b56;
+}
+
+.ecommerceexplore-card-bg {
+    background-color: #ffffff;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.ecommerceexplore-card-mainheading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Roboto;
+    padding: 20px;
+}
+
+.ecommerceexplore-card-image1 {
+    height: 10vh;
+    border-radius: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.ecommerceexplore-card-heading {
+    font-size: 20px;
+    color: #1f2933;
+    margin-left: 20px;
+    margin-bottom: 30px;
+
+}
+
+.ecommerceexplore-card-highlight {
+    color: #ff9f00;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.ecommerceexplore-card-image2 {
+    height: 70vh;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.ecommercecontact-bg {
+    background-color: #f5f7fa;
+    background-size: cover;
+    height: 60vh;
+}
+
+.ecommercecontact-mainheading {
+    color: #183b56;
+    font-size: 50px;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.ecommercecontact-button {
+    color: #ff9f00;
+    font-size: 25px;
+    font-family: Roboto;
+    background-color: #f5f7fa;
+    border-style: solid;
+    border-color: #ff9f00;
+    border-width: 3px;
+    padding: 10px;
+}
+
+.ecommercecontact-bg {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.ecommercecontact-logo {
+    margin-bottom: 15px;
+
+}
+
+.ecommercecontact-icon {
+    color: #5a7184;
+    background-color: #152c3e;
+    font-size: 15px;
+    padding: 15px;
+    border-radius: 40px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+
+.ecommercecontact-para1 {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.ecommercecontact-heading {
+    font-size: 20px;
+    color: #5a7184;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.ecommercecontact-para2 {
+    font-size: 20px;
+    color: #5a7184;
+}
+
+.ecommercecontact-desc {
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+.ecommercecontact-hr-line {
+    background-color: #5a7184;
+}
+
+.ecommercecontact-anchor {
+    color: #5a7184;
+    font-size: 20px;
+    font-family: Roboto;
+}
